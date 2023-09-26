@@ -1,7 +1,6 @@
-package gerenciamentoaluguelcarro;
-
-import gerenciamentoaluguelcarro.Carro;
 import gerenciamentoaluguelcarro.Aluguel;
+import gerenciamentoaluguelcarro.Carro;
+import gerenciamentoaluguelcarro.Usuario;
 
 public class Main {
     public static void main(String[] args) {
@@ -17,4 +16,4 @@ public class Main {
     }
 }
     
-}
+
